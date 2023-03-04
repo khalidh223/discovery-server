@@ -1,4 +1,4 @@
-package com.test.discovery
+package com.shopping.discovery
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
